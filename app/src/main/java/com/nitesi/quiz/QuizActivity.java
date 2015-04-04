@@ -45,7 +45,6 @@ public class QuizActivity extends Activity {
     }
     @Override
     public void onResume() {
-        //lol
         super.onResume();
         Log.d(TAG, "onResume() called");
     }
